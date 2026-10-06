@@ -1,0 +1,12 @@
+{
+  "updated": "2026-10-06",
+  "products": [
+    {"category":"wash","brand":"Haier","model":"I-Pro Series 7 Plus HW100-BD14979U1","price":479,"oldPrice":594.18,"score":9.5,"favorite":true,"chips":["10 kg","1400 rpm","Clase A","AutoDose","Direct Motion"],"note":"La referencia a batir: mucha capacidad y todas las funciones importantes sin precio premium.","url":"https://www.haier-europe.com/es_ES/collections/gama-i-pro-series"},
+    {"category":"wash","brand":"Samsung","model":"WW90DG6U85HHU3","price":485.10,"priceLabel":"Vigilar oferta","score":9.0,"chips":["9 kg","Clase A","AutoDose","EcoBubble"],"note":"Muy buena candidata cuando aparece código o promoción directa."},
+    {"category":"wash","brand":"AEG","model":"LFR6194O4Q","priceLabel":"Vigilar cashback","score":8.8,"chips":["9 kg","Clase A","AutoDose"],"note":"Interesa especialmente cuando el precio de tienda y el reembolso se pueden acumular."},
+    {"category":"dry","brand":"Hisense","model":"DHQE800BW2","price":389,"score":9.2,"favorite":true,"chips":["8 kg","Bomba de calor","Sensor"],"note":"Punto dulce de precio. No necesitamos que combine visualmente con la lavadora."},
+    {"category":"dry","brand":"Balay","model":"3SB288BE","price":430,"score":8.6,"chips":["8 kg","Bomba de calor","Sensores"],"note":"Alternativa si aparece cerca del precio de Hisense."},
+    {"category":"dry","brand":"Bosch","model":"WTR83200ES","price":460,"score":8.3,"chips":["8 kg","Bomba de calor","AutoDry"],"note":"Buena máquina; comprar sólo si la diferencia frente a Hisense/Balay se reduce."},
+    {"category":"micro","brand":"Corberó","model":"CMICM20GLWINTEG","priceMin":215,"priceMax":239,"score":9.7,"favorite":true,"chips":["20 L","800 W","Grill 1000 W","Cristal blanco"],"note":"Candidato natural si el horno Corberó comparte tono y estética. Aparato: 59,4 × 38,6 × 31,7 cm.","url":"https://www.mediamarkt.es/es/product/_microondas-integrable-corbero-cmicm20glwinteg-5-potencia-20-l-blanco-154034521.html"}
+  ]
+}
